@@ -54,7 +54,7 @@ namespace E_commerce
                         usersList.Add(new Users(Id, Username, Email, Password, Age, IsAdmin));
                         String data = JsonConvert.SerializeObject(usersList);
                         File.WriteAllText("usersFile.json", data);
-                       
+                        Console.WriteLine("kjhgf");
                         break;
                     case "d":
                         
