@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("c# projjjj");
+            Console.WriteLine("cnn# projjjj");
         }
     }
 }
